@@ -1,0 +1,84 @@
+<html>
+<head>
+  <title>Mia Norrish Portfolio</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+<header>
+  
+  <nav>
+    <label class="logo">MN</label>
+
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Resume</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <style>
+    body{background: rgb(241, 241, 241)}
+  </style>     
+</header>
+
+
+  <section class="hero">
+    <div class="container">
+      <div class="left">
+        <h1 class="heading">Hello, I'm Mia Norrish</h1>
+        <p class="subHeading">I am an aspiring UX/UI designer. <br> I love designing the interfaces on mobile and web applications and enjoy brainstorming ideas from the data from user tests.</p>
+        <h2> UX/UI Skills</h2>
+        <p class="subHeading2">Visual mockups, navigation flows, wireframes, interactive prototypes, usability testing, persona development, information architecture, storyboards, user research, heuristic evaluation. </p>
+      </div>
+      <div class="right">
+        <img src="Mia Prof Profile Pic.jpg">
+      </div>
+  </section>
+ 
+
+  <h3> PROJECTS</h3>
+  <section id="categoryGrid">
+    <div id="aeonforocean" class="categoryGridArea">
+      <div class="heading">Aeon For Ocean</div>
+      </div>
+    <div id="grouponthego" class="categoryGridArea">
+      <div class="heading">Group on the Go</div>
+    </div>
+    <div id="usda" class="categoryGridArea">
+      <div class="heading">U.S. Department of Agriculture</div>
+    </div>
+    <div id="tribi" class="categoryGridArea">
+      <div class="heading">Tribi</div>
+    </div>
+
+    </section>
+<footer>
+  <div class="footer">
+    <div class="footer-bottom">
+      <h4> &copy; Email: norrishmia@gmail.com | LinkedIn <br> 2021 | Designed by Mia Norrish </h4>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Resume</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    
+  </div>    
+  
+</div>
+</div>
+
+</footer>
+ 
+
+
+
+</body>
+
+
+</html>
+
+
