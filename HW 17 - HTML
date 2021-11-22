@@ -29,12 +29,15 @@
     <div class="container">
       <div class="left">
         <h1 class="heading">Hello, I'm Mia Norrish</h1>
-        <p class="subHeading">I am an aspiring UX/UI designer. <br> I love designing the interfaces on mobile and web applications and enjoy brainstorming ideas from the data from user tests.</p>
+        <p class="subHeading">I'm a visually focused, strategy-oriented UX/UI designer with an educational background in medical illustration. 
+          <br> My strength is to analyze complex problems and create functional user interfaces based on research and identification of the users' wants, needs, and frustrations.
+          My goal is to improve the user experience on web and mobile applications. <br> I believe every design starts with a story and in order to be a great designer, you need to deeply understand how people think and act.</p>
+
         <h2> UX/UI Skills</h2>
         <p class="subHeading2">Visual mockups, navigation flows, wireframes, interactive prototypes, usability testing, persona development, information architecture, storyboards, user research, heuristic evaluation. </p>
       </div>
       <div class="right">
-        <img src="Mia Prof Profile Pic.jpg">
+        <img src="Mia-profile-pic - Copy.png">
       </div>
   </section>
  
